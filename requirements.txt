@@ -1,0 +1,7 @@
+streamlit
+langchain
+faiss-cpu
+chromadb
+networkx
+openpyxl
+graphviz
